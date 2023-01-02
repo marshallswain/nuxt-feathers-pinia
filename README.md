@@ -1,6 +1,6 @@
 # nuxt-feathers-pinia
 
-This is the Nuxt module for [Feathers Pinia](https://v2.feathers-pinia.pages.dev)
+The Nuxt module for [Feathers Pinia](https://v2.feathers-pinia.pages.dev)
 
 ## Installation
 
