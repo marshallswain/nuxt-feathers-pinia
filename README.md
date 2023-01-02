@@ -40,7 +40,7 @@ export default defineNuxtConfig({
 This module provides two features:
 
 - A set of composables for working with Feathers-Pinia and Nuxt
-- Enables auto-import for key [Feathers-Pinia composables](https://v2.feathers-pinia.pages.dev/guide/nuxt-plugin)
+- Enables auto-import for key [Feathers-Pinia composables](https://v2.feathers-pinia.pages.dev/guide/nuxt-module)
 
 ## Development
 
