@@ -1,6 +1,6 @@
 {
   "name": "nuxt-feathers-pinia",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "type": "module",
   "exports": {
@@ -24,7 +24,7 @@
     "@nuxt/kit": "^3.3.3"
   },
   "peerDependencies": {
-    "feathers-pinia": "^3.0.0-pre.3"
+    "feathers-pinia": "^3.0.0-pre.6"
   },
   "devDependencies": {
     "@nuxt/module-builder": "^0.2.1",

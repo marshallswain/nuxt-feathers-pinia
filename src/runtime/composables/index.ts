@@ -1,7 +1,9 @@
 export {
-  useFeathersInstance,
   useInstanceDefaults,
   useDataStore,
   useAuth,
-  createPiniaClient
+  createPiniaClient,
+  defineValues,
+  defineGetters,
+  defineSetters
 } from 'feathers-pinia'
